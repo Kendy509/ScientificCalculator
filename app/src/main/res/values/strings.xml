@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Scientific Calculator</string>
+    <string name="ac_text">AC</string>
+    <string name="negate_text">±</string>
+    <string name="divide_text">÷</string>
+    <string name="modulus">%</string>
+    <string name="multiply_text">×</string>
+    <string name="four_text">4</string>
+    <string name="five_text">5</string>
+    <string name="six_text">6</string>
+    <string name="minus_text">−</string>
+    <string name="one_text">1</string>
+    <string name="two_text">2</string>
+    <string name="three_text">3</string>
+    <string name="plus_text">+</string>
+    <string name="zero_text">0</string>
+    <string name="equal_text">=</string>
+    <string name="squarert_text">√</string>
+    <string name="pi_text">π</string>
+    <string name="tan_text">Tan</string>
+    <string name="sin_text">Sin</string>
+    <string name="cos_text">Cos</string>
+</resources>
